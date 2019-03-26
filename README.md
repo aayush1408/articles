@@ -4,6 +4,10 @@
 
 ## Medium
 
+1. [Writing your own custom hooks!](https://blog.bitsrc.io/writing-your-own-custom-hooks-4fbcf77e112e)
+
+1. [Learn How to use Vuex and Redux in your apps](https://blog.bitsrc.io/learn-how-to-use-vuex-and-redux-in-your-apps-a5779cfb13ec)
+
 1. [Building Chrome Extensions 101](https://blog.bitsrc.io/building-chrome-extensions-101-7baeaa1ec2a5)
 
 1. [Understanding Service Workers and Caching Strategies](https://blog.bitsrc.io/understanding-service-workers-and-caching-strategies-a6c1e1cbde03)
@@ -17,4 +21,6 @@
 1. [WTH is prototypal inheritance???](https://medium.com/front-end-weekly/wth-is-prototypal-inheritance-b0c7f4f3211e)
 
 1. [Know Shell Scripting!!](https://hackernoon.com/know-shell-scripting-202b2fbe03a8)
+
+
 
