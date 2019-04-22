@@ -4,6 +4,10 @@
 
 ## Medium
 
+1. [Uploading Files and Images With Express and Vue](https://blog.bitsrc.io/uploading-files-and-images-with-vue-and-express-2018ca0eecd0)
+
+1. [10 custom hooks you should probably have in your toolbox](https://blog.bitsrc.io/10-react-custom-hooks-you-should-have-in-your-toolbox-aa27d3f5564d)
+
 1. [Writing your own custom hooks!](https://blog.bitsrc.io/writing-your-own-custom-hooks-4fbcf77e112e)
 
 1. [Learn How to use Vuex and Redux in your apps](https://blog.bitsrc.io/learn-how-to-use-vuex-and-redux-in-your-apps-a5779cfb13ec)
